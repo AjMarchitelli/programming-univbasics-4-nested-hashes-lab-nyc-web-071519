@@ -21,7 +21,7 @@ end
 
 def alan_kay_is_known_for
 	puts programmer_hash[:alan_kay]
-	end 
+
 	
 	programmer_hash = 
  		{
